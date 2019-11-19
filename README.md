@@ -11,11 +11,17 @@ https://hub.docker.com/repository/docker/gogodbrl/nginx1
 [2019.11.19]
 
 #### 둘쨋날 수업 : docker build. Dockerfile에 스크립트를 작성 후 docker image를 직접 빌드해 보기
-
 ```
 vagrant-example(git) : git clone https://github.com/Finfra/vagrant-examples/
 dockers(git) : git clone https://github.com/Finfra/dockers.git
+kubernetes(git) : https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster
 ```
+#### Udemy
+kubernetes 유료강좌
+
+#### katacoda 
+시뮬레이션 교육사이트 
+
 
 #### dockerfiles-ubuntu-user-adderable
 Ubuntu, It support base user creation and password setting.
