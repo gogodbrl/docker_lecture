@@ -34,7 +34,7 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 ad2ad96e4b2f        gogodbrl/ubuntu      "/bin/bash"         7 seconds ago       Up 6 seconds                            u1
 ```
 
-To test, ("nowage" is username. )
+To test, ("jakim" is username. )
 ```
 	su - jakim
 ```
